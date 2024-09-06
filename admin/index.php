@@ -53,7 +53,7 @@ if (isset($_SESSION['admin'])) {
                             <div class="icheck-primary">
                                 <input type="checkbox" id="remember">
                                 <label for="remember">
-                                    Show Passworddd
+                                    Show Passwordddddddddddddddddddddddddddddddddddddddddddd
                                 </label>
                             </div>
                         </div>
