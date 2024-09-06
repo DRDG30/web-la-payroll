@@ -23,7 +23,7 @@ if (isset($_SESSION['admin'])) {
 
                     <div class="input-group mb-3">
 
-                        <!-- deleted na yung labellllll -->
+                        <!-- deleted na yung label-->
 
 
                         <input type="text" class="form-control" name="username" placeholder="Username" required autofocus>
@@ -53,7 +53,7 @@ if (isset($_SESSION['admin'])) {
                             <div class="icheck-primary">
                                 <input type="checkbox" id="remember">
                                 <label for="remember">
-                                    Show Password
+                                    Show Passworddd
                                 </label>
                             </div>
                         </div>
