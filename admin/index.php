@@ -23,6 +23,9 @@ if (isset($_SESSION['admin'])) {
 
                     <div class="input-group mb-3">
 
+
+                        <label for="username">Username</label>
+
                         <input type="text" class="form-control" name="username" placeholder="Username" required autofocus>
 
                         <div class="input-group-append">
@@ -34,6 +37,9 @@ if (isset($_SESSION['admin'])) {
 
                     <div class="input-group mb-3">
 
+                        <div>
+                            <label for="password">Password</label>
+                        </div>
                         <input type="password" class="form-control" name="password" placeholder="Password" required>
 
                         <div class="input-group-append">
@@ -49,7 +55,7 @@ if (isset($_SESSION['admin'])) {
                             <div class="icheck-primary">
                                 <input type="checkbox" id="remember">
                                 <label for="remember">
-                                    Remember Me
+                                    Show Password
                                 </label>
                             </div>
                         </div>
