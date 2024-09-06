@@ -23,7 +23,7 @@ if (isset($_SESSION['admin'])) {
 
                     <div class="input-group mb-3">
 
-                        <!-- deleted na yung label -->
+                        <!-- deleted na yung labellllll -->
 
 
                         <input type="text" class="form-control" name="username" placeholder="Username" required autofocus>
